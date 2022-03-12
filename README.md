@@ -14,6 +14,8 @@
 ## 一、下载项目 
 ```sh
 git clone git@github.com:DimplesY/uniapp-windicss-starter.git
+# or 使用项目作为模版
+npx degit git@github.com:DimplesY/uniapp-windicss-starter.git
 ```
 
 ## 二、安装依赖
